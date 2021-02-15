@@ -1,0 +1,321 @@
+{
+  "data": [
+    {
+      "text": "@washimi1020 おはにゃー❣️\nまーは猫又だから大丈夫にゃ❗️🍫🐱\nにゃんフェア達は猫だからNGにゃ〜〜〜",
+      "id": "1360772702705881090",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "washimi1020"
+          }
+        ]
+      },
+      "author_id": "1344652133170253824"
+    },
+    {
+      "text": "RT @nagi7hi: 地震でトラウマを思い出した人もいるってのを見て｢そうだよな……｣ってなったので猫流しときます https://t.co/1QDhNS94oJ",
+      "entities": {
+        "urls": [
+          {
+            "start": 60,
+            "end": 83,
+            "url": "https://t.co/1QDhNS94oJ",
+            "expanded_url": "https://twitter.com/nagi7hi/status/1360606016384081925/video/1",
+            "display_url": "pic.twitter.com/1QDhNS94oJ"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "nagi7hi"
+          }
+        ]
+      },
+      "id": "1360772702680702980",
+      "author_id": "1112709327406551040"
+    },
+    {
+      "text": "RT @himatsubushiken: 猫みたいな 大福だ…… https://t.co/ye9iEJNupW",
+      "entities": {
+        "urls": [
+          {
+            "start": 32,
+            "end": 55,
+            "url": "https://t.co/ye9iEJNupW",
+            "expanded_url": "https://twitter.com/himatsubushiken/status/1360559345847554054/video/1",
+            "display_url": "pic.twitter.com/ye9iEJNupW"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "himatsubushiken"
+          }
+        ]
+      },
+      "id": "1360772701615386624",
+      "author_id": "1243199282691239937"
+    },
+    {
+      "text": "RT @oldmoonyyshizo: 葛葉「結構デカイな みなさん配信見ないで避難してくだ さいね」\n\nアンジュ「びっくりした 猫の様子見てくる…！」\n\n月ノ美兎「地球が喜んでるよ月ノ美兎が帰ってきた事を」",
+      "entities": {
+        "annotations": [
+          {
+            "start": 20,
+            "end": 21,
+            "probability": 0.6686,
+            "type": "Person",
+            "normalized_text": "葛葉"
+          },
+          {
+            "start": 52,
+            "end": 55,
+            "probability": 0.6402,
+            "type": "Person",
+            "normalized_text": "アンジュ"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "oldmoonyyshizo"
+          }
+        ]
+      },
+      "id": "1360772701611155461",
+      "author_id": "879738075169013760"
+    },
+    {
+      "text": "@ysviolin 猫たちは片付けの間、一部屋にまとめて閉じ込めましたｗ興味津々で寄って来ちゃうんですよね〜",
+      "id": "1360772700050915329",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 9,
+            "username": "ysviolin"
+          }
+        ]
+      },
+      "author_id": "96876238"
+    },
+    {
+      "text": "RT @oldmoonyyshizo: 葛葉「結構デカイな みなさん配信見ないで避難してく ださいね」\n\nアンジュ「びっくりした 猫の様子見てくる…！」\n\n月ノ美兎「地球が喜んでるよ月ノ美兎が帰ってきた事を」",
+      "entities": {
+        "annotations": [
+          {
+            "start": 20,
+            "end": 21,
+            "probability": 0.6686,
+            "type": "Person",
+            "normalized_text": "葛葉"
+          },
+          {
+            "start": 52,
+            "end": 55,
+            "probability": 0.6402,
+            "type": "Person",
+            "normalized_text": "アンジュ"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "oldmoonyyshizo"
+          }
+        ]
+      },
+      "id": "1360772697756635136",
+      "author_id": "1102191381500448775"
+    },
+    {
+      "text": "RT @Mrsbellcat: 猫を飼ってる人が1回はやったことあるやつ🐈 https://t.co/zepRe0mGDs",
+      "entities": {
+        "urls": [
+          {
+            "start": 38,
+            "end": 61,
+            "url": "https://t.co/zepRe0mGDs",
+            "expanded_url": "https://twitter.com/Mrsbellcat/status/1360492076056498178/video/1",
+            "display_url": "pic.twitter.com/zepRe0mGDs"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "Mrsbellcat"
+          }
+        ]
+      },
+      "id": "1360772697538502657",
+      "author_id": "918420828529704962"
+    },
+    {
+      "text": "RT @kuronekogaiden: ちびっこテ ィース動画でホッコリタイム💕\nﾏｹﾞ「ママの膝に逃げるとは卑怯なり😡」\n\n#猫 https://t.co/QtcSm3J2UC",
+      "entities": {
+        "urls": [
+          {
+            "start": 65,
+            "end": 88,
+            "url": "https://t.co/QtcSm3J2UC",
+            "expanded_url": "https://twitter.com/kuronekogaiden/status/1360520179118002178/video/1",
+            "display_url": "pic.twitter.com/QtcSm3J2UC"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "kuronekogaiden"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 62,
+            "end": 64,
+            "tag": "猫"
+          }
+        ]
+      },
+      "id": "1360772696489873409",
+      "author_id": "853283931935735808"
+    },
+    {
+      "text": "RT @hidekiccan: 犬と猫どっちも飼ってると、あふれんばかりの喜びをあふれさせたりさせなかったりで毎日たのしい https://t.co/8T08o7bDA1",
+      "entities": {
+        "urls": [
+          {
+            "start": 62,
+            "end": 85,
+            "url": "https://t.co/8T08o7bDA1",
+            "expanded_url": "https://twitter.com/hidekiccan/status/1360744768456646656/photo/1",
+            "display_url": "pic.twitter.com/8T08o7bDA1"
+          },
+          {
+            "start": 62,
+            "end": 85,
+            "url": "https://t.co/8T08o7bDA1",
+            "expanded_url": "https://twitter.com/hidekiccan/status/1360744768456646656/photo/1",
+            "display_url": "pic.twitter.com/8T08o7bDA1"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "hidekiccan"
+          }
+        ]
+      },
+      "id": "1360772693860098048",
+      "author_id": "256979986"
+    },
+    {
+      "text": "RT @sirosirotya: 栃木市大平町で迷い猫を保護しました！2月12日16時ごろ\n人に 慣れているので元飼い猫かもしれないということで飼い主さんを探しています！\n\nとても小柄な猫ですが子猫ではなく大人の猫ではないかという事です\n\n#迷い猫\n#大平町\n#保護猫 https…",
+      "entities": {
+        "annotations": [
+          {
+            "start": 17,
+            "end": 22,
+            "probability": 0.7742,
+            "type": "Place",
+            "normalized_text": "栃木市大平町"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "sirosirotya"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 119,
+            "end": 123,
+            "tag": "迷い猫"
+          },
+          {
+            "start": 124,
+            "end": 128,
+            "tag": "大平町"
+          },
+          {
+            "start": 129,
+            "end": 133,
+            "tag": "保護猫"
+          }
+        ]
+      },
+      "id": "1360772693583302656",
+      "author_id": "1108667833729191936"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1344652133170253824",
+        "name": "蘇芳またたび【Matatabi Suoh】@2/13初配信❣️",
+        "username": "horoyoimatatabi"
+      },
+      {
+        "id": "1112709327406551040",
+        "name": "ቺッቻりቺቻ郎@ぱふぃんキッズ",
+        "username": "MoCha_SSBU"
+      },
+      {
+        "id": "1243199282691239937",
+        "name": "みねちょん🐹( '-' 🐹 )ﾊﾑﾁｬﾝ#あみっこ",
+        "username": "mine_chan2525"
+      },
+      {
+        "id": "879738075169013760",
+        "name": "ッタバ。🐬",
+        "username": "Soba_tta"
+      },
+      {
+        "id": "96876238",
+        "name": "天内❄️",
+        "username": "auf_uni"
+      },
+      {
+        "id": "1102191381500448775",
+        "name": "セレナ",
+        "username": "Serenawiwi888"
+      },
+      {
+        "id": "918420828529704962",
+        "name": "チャンマ",
+        "username": "masaco8851"
+      },
+      {
+        "id": "853283931935735808",
+        "name": "かな",
+        "username": "EtcEHrjX2u6GNxf"
+      },
+      {
+        "id": "256979986",
+        "name": "Urume",
+        "username": "Urumetch"
+      },
+      {
+        "id": "1108667833729191936",
+        "name": "季節",
+        "username": "rjg7gGwf1kixKqq"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1360772702705881090",
+    "oldest_id": "1360772693583302656",
+    "result_count": 10,
+    "next_token": "b26v89c19zqg8o3fosnr8seik679m79tsk7pnstzd6qv1"
+  }
+}

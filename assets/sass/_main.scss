@@ -1,0 +1,23 @@
+@import "./variables";
+
+* {
+  color: $color-text-white;
+}
+body {
+  background: rgb(51, 138, 253);
+  h3 {
+    word-wrap: break-word;
+  }
+  section {
+    margin-bottom: 50%;
+    a {
+      text-decoration: none;
+      color: $color-text-white;
+    }
+  }
+  .tweet-card {
+    border-radius: 10px;
+    background: rgba(255,255,255,0.3);
+    margin: 3px;
+  }
+}

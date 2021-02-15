@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= @app_name %></title>
+  <link rel="stylesheet" href="dist/index.css">
+</head>
+<body>
+  <section class="container">
+    <div class="row justify-content-center my-5">
+      <div class="col">
+        <h1><a href="/"><%= @app_name %></a></h1>
+      </div>
+    </div>
+    <div class="row justify-content-center  row-cols-1 row-cols-md-4 px-2">
+      <% @tweets.each do |tweet| %>
+        <div class="col d-flex flex-column tweet-card py-1">
+          <h3>
+            <a href="<%= TWITTER_URL + @authors[tweet["author_id"]][:username] + "/status/" + tweet["id"] %>" target="_blank">
+              <%= tweet["text"] %>
+            </a>
+          </h3>
+          <div class="d-flex flex-wrap pt-3">
+            <% unless tweet["entities"].nil? || tweet["entities"]["hashtags"].nil? %>
+              <% tweet["entities"]["hashtags"].each do |hashtag| %>
+                <a class="pe-2" href="<%= TWITTER_URL + "/hashtag/" + hashtag["tag"] %>" target="_blank">
+                  #<%= "#{ hashtag["tag"] }" %>
+                </a>
+              <% end %>
+            <% end %>
+          </div>
+          <p class="align-self-end pt-3">
+            <a href="<%= TWITTER_URL + @authors[tweet["author_id"]][:username]%>" target="_blank">
+              By <%= @authors[tweet["author_id"]][:name] %>
+            </a>
+          </p>
+        </div>
+      <% end %>
+    </div>
+  </section>
+  <nav>
+    <div class="container mb-md-5">
+      <div class="row justify-content-center py-5">
+        <div class="col-md-12 col-lg-9">
+          <form action="/" method="post" class="d-flex flex-column flex-md-row">
+            <label for="keyword" class="mx-md-2 mt-1">キーワードTweetを検索する</label>
+            <input type="text" name="keyword" id="keyword" class="mb-3 px-2 py-2 mb-md-0 mx-md-2" value="<%= @sample %>">
+            <button type="submit" class="">
+              <ion-icon name="search-circle-outline" size="small" class="px-2"></ion-icon>
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</body>
+</html>

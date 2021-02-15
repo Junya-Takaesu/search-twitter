@@ -1,0 +1,6 @@
+@import "../variables";
+
+@media screen and (min-width: $medium-width) {
+  @import "./nav-md";
+  @import "./main-md";
+}
